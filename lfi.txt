@@ -1,0 +1,13 @@
+Используемые команды: git init - создание (инициализация) проекта
+
+git status - проверка статуса
+
+git add .\README.md - добавление файла
+
+git commit -m "new file" - добавление коммита
+
+git remote add origin https://github.com/Dumplingg03/practice_3_3.git - подключение к созданному репозиторию
+
+git branch -m main - переиименовать ветку
+
+git push -u origin main - отправить изменения
